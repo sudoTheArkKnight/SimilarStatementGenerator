@@ -1,0 +1,6 @@
+POST http://127.0.0.1:8000/similar_statements/
+Content-Type: application/json
+
+{
+  "statement": "Good evening"
+}
